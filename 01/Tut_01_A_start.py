@@ -5,4 +5,3 @@ def FP(x, a, kMax, eps):
     ...
 
     return x,err
-
